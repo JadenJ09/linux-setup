@@ -3,11 +3,11 @@
 This repository contains my personal dotfiles for setting up my development environment on Linux.
 
 ## Linux Profile
-OS: Debian 12
-GUI: GNOME
-Shell: zsh
-Additional tools: tmux, nvim, gh, git, docker
-Python env: pyenv, poetry, conda
+ - OS: Debian 12
+ - GUI: GNOME
+ - Shell: zsh
+ - Additional tools: tmux, nvim, gh, git, docker
+ - Python env: pyenv, poetry, conda
 
 ## Contents
 
